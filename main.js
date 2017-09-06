@@ -1,6 +1,6 @@
 /* We want to do the following
 
-
+http://imgur.com/n1xml
  1. Get info about an image with the ID n1xml
  2. Upload an image to imgur using the public API. The image to use is http://i68.tinypic.com/23upv91.gif.
  3. Get the size of the image when that's done. 
